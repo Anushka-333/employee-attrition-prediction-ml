@@ -94,6 +94,8 @@ Reduce excessive overtime to improve work-life balance.
 Prioritize retention efforts for high-risk departments and job roles.
 Review compensation and employee recognition programs regularly.
 Use predictive analytics to identify employees at risk and provide timely support.
+
+
 📁 Project Structure
 employee-attrition-prediction-ml/
 │
